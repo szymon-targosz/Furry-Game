@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function(){
         this.parentElement.classList.add('fadeOutDown');
         setTimeout(function(){
              window.location.reload()
-         }, 950);
+         }, 900);
 
     });
 });
